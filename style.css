@@ -1,0 +1,20 @@
+:root {
+  margin: 0;
+  padding: 0;
+  --white: #ffffff;
+
+  --lightBlue: #4263EB;
+  --blue: #364FC7;
+  --light: #EDF2FF;
+  --dark: #00082F;
+
+  --lightPink: #D6336C;
+  --pink: #A61E4D;
+  --light2: #FFF0F6;
+  --dark2: #1F000B;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: var(--light);
+}
